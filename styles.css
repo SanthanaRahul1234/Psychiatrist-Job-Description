@@ -1,0 +1,19 @@
+#title-section {
+    padding: 5% 10% 0% 10%;
+    text-align: center;
+}
+
+#middle-section {
+    padding: 0% 15% 5% 15%
+}
+
+hr{
+    border-top: 5px solid #0275d8;
+    border-radius: 5px;
+    width: 50%;
+    margin-center: 0;
+}
+
+.navbar-custom {
+    background-color: #0275d8;
+}
